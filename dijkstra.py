@@ -39,7 +39,6 @@ class Graph():
         self.printSolution(dist)
 
 
-# Driver's code
 if __name__ == "__main__":
     g = Graph(9)
     g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
